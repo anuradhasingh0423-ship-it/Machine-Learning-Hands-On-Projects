@@ -102,15 +102,6 @@ Understanding these concepts is **essential for AI/ML Engineers and Data Scienti
 
 ---
 
-## 📚 Author Notes
-This content is written as part of **hands-on Machine Learning learning**, focusing on:
-- Conceptual clarity
-- Interview readiness
-- Real-world understanding
-
-Feel free to explore each technique in detail through the individual files.
-
----
 
 ⭐ *“Single models can be good. Ensembles make them great.”*
 
